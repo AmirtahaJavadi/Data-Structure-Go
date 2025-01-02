@@ -112,6 +112,6 @@ Now that’s some serious power right there! ⚡️
 We’d love to have you contribute! 💪 Whether it’s fixing a bug, adding a new feature, or improving documentation, every contribution is welcome! 😄
 Let’s make this project even better together! 💥
 
-### 📝 License <a name="license"></a> 
+## 📝 License <a name="license"></a> 
 
 This project is licensed under the MIT License - see the [LICENSE]("https://opensource.org/license/mit") file for details. 🗝️
